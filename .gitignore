@@ -1,2 +1,2 @@
-# Ignore all files in a directory
-my_directory/*
+# Ignore a file with a specific name in any directory
+**/HelloWorld.txt
